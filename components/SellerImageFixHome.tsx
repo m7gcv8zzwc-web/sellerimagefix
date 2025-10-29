@@ -312,7 +312,7 @@ useEffect(() => {
           <div className="flex items-center gap-6">
             <a href="#how" className="hover:opacity-80">How it Works</a>
             <a href="#help" className="hover:opacity-80">Help</a>
-            <a href="#" className="hover:opacity-80">Terms</a>
+            <a href="/terms" className="hover:opacity-80">Terms</a>
           </div>
         </div>
       </footer>
